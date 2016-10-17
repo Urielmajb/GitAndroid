@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tarjeta de Presentacion</string>
+    <string name="nombre">Nombre:</string>
+    <string name="urielma_salome">Urielma Salome</string>
+    <string name="apellido">Apellido:</string>
+    <string name="jiron_barahona">Jiron Barahona</string>
+    <string name="edad">Edad:</string>
+    <string name="_17_anios">17 años</string>
+    <string name="nacionalidad">Nacionalidad:</string>
+    <string name="nicaragua">Nicaraguense</string>
+    <string name="sexo">Sexo:</string>
+    <string name="f">F</string>
+    <string name="carrera">Carrera:</string>
+    <string name="ing_sistemas_de_la_informacion">2do año de Ing.Sistemas de la Informacion</string>
+    <string name="lugar_de_estudio">Lugar de Estudio:</string>
+    <string name="universidad_centroamericana_uca">Universidad Centroamericana-UCA</string>
+
+</resources>
